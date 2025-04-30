@@ -37,6 +37,8 @@ The toolkit applies an automated evaluation pipeline:
 5. **Visualization and Reporting**  
    Display attack vectors, model outputs, risk scores, and classification breakdowns in a live dashboard, with session-based history logging.
 
+    ![architecture](https://github.com/user-attachments/assets/103afb2b-3bb2-453f-972b-fb77ec37aa23)
+
 ## Outputs Displayed
 
 - Attack prompt text  
@@ -60,4 +62,5 @@ The toolkit applies an automated evaluation pipeline:
 - Streamlit (dashboard and interaction layer)  
 - Llama.cpp (for local Mistral 7B inference)  
 - Python 3.10+  
-- Docker (for optional containerization)   
+- Docker (for optional containerization)
+

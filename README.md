@@ -64,3 +64,7 @@ The toolkit applies an automated evaluation pipeline:
 - Python 3.10+  
 - Docker (for optional containerization)
 
+## Expected output:
+<img width="1470" alt="Screenshot 2025-04-27 at 11 44 41 AM" src="https://github.com/user-attachments/assets/bda34402-c52f-4bd1-b40e-db47999d0f2c" />
+
+

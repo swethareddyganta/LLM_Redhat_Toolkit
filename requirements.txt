@@ -1,0 +1,6 @@
+openai
+transformers
+torch
+llama-cpp-python
+streamlit
+pandas
